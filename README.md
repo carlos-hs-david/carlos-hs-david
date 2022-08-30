@@ -3,7 +3,10 @@
 
 - 🔭 Hoje trabalho com Experiência do Usuário
 - 🌱 Estou estudando Design de produtos digitais - UX-UI, na UNOPAR
+- 😍 Apaixonado por criar interfaces e resolver problemas
+- 🔍 Gosto muito de entender como as coisas funcionam, sempre abro eletrênicos para ver como são por dentro.
 - 📫 Entre em contato: carlos.hs.david@gmail.com
+
 
 
 
