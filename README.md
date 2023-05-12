@@ -1,8 +1,8 @@
 ### Oi, eu sou o Carlos David! 
 
 
-- 🔭 Hoje trabalho com Experiência do Usuário
-- 🌱 Estou estudando Design de produtos digitais - UX-UI, na UNOPAR
+- 🔭 Hoje trabalho com Experiência do Usuário e Web Design.
+- 🌱 Sou especialista em Design de produtos digitais - UX-UI e estou estudando MBA em Gestão Ágil, ambos os cursos na Universidade Pitagoras Unopar Anhanguera.
 - 😍 Apaixonado por criar interfaces e resolver problemas
 - 🔍 Gosto muito de entender como as coisas funcionam, sempre abro eletrênicos para ver como são por dentro.
 - 📫 Entre em contato: carlos.hs.david@gmail.com
